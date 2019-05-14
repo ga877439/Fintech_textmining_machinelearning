@@ -1,2 +1,3 @@
-# HW1
-homework1 for the course "fintech-MLandTM"
+# Fintech_textmining_machinelearning
+
+
